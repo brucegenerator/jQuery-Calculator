@@ -1,0 +1,45 @@
+/* Select all spans that are immediate children of buttons */
+button > span {
+    font-size: 2.5rem;
+}
+.jumbotron {
+    background: #bd00ff;
+    background-image: url("http://www.truehorror.net/wp-content/uploads/2016/12/sadistart-DF.jpg");
+    color: #00ff9f;
+}
+body {
+    background: #001eff;
+    background-image: url("https://diaboliquemagazine.com/wp-content/uploads/2016/09/vlcsnap-2016-09-21-00h55m25s186-620x349.png")
+}
+.number {
+    background: #d600ff;
+    color: #00ff9f;
+
+}
+.operator {
+    background: #00ff9f;
+    color: #d600ff;
+
+}
+
+.card-header {
+    background: #00b8ff;
+    background-image: url("https://youtubemusicsucks.com/wp-content/uploads/2018/06/synthwave.png");
+}
+.card-body {
+    background: #00B8FF;
+    background-image: url("https://i2.wp.com/ironskullet.com/wp-content/uploads/2018/02/skeletor-synth-final-small.jpg?zoom=1.25&fit=960%2C960&ssl=1");
+
+}
+.card-body > h1{
+    color: #00ff9f;
+}
+#result {
+    font-size: 100px;
+}
+#first-number {
+    font-size: 50px;
+}
+#second-number {
+    font-size: 50px;
+}
